@@ -11,6 +11,16 @@ const tools = [
     url: 'https://zxcv.fyi',
     description: 'Minimalist links and tools.',
   },
+  {
+    name: 'Tiny Helpers',
+    url: 'https://tiny-helpers.dev/',
+    description: 'A collection of useful little online tools.',
+  },
+  {
+    name: 'Omnitools',
+    url: 'https://omnitools.app/',
+    description: 'Every tool you need in one place.',
+  },
 ]
 
 function App() {
